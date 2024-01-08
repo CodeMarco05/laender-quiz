@@ -1,0 +1,58 @@
+body {
+    background-image: url('Help.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#info{
+    position: static;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 100%;
+    color: white;
+    
+}
+
+
+#sprachDiv{
+    padding-top: 38%;
+    padding-left: 2%;
+}
+
+#sprache{
+    height: 30px;
+    width: 25%;
+    color: black;
+    background-color: white;
+}
+
+#lander{
+    padding-top: 1%;
+    padding-left: 2%;
+    font-size: 100%;
+    color: white;
+}
+
+#ankundigung{
+    margin-top: 15%;
+    padding-left: 2%;
+    font-size: 100%;
+    color: white;
+    font-size: 110%;
+    text-decoration: underline;
+}
+
+#menuDiv{
+    margin-top: 25%;
+    margin-left: 2%;
+    width: 360px;
+    height: 98px;
+}
+
+#menu{
+    width: 360px;
+    height: 98px;
+    background-color: transparent;
+    border-style: hidden;
+}

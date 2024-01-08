@@ -1,0 +1,51 @@
+body {
+    background-image: url('Flags.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#flagContainer{
+    margin-top: 31.6%;
+    margin-left: 8.9%;
+}
+
+#landDiv{
+    position: static;
+    margin-top: 13%;
+    margin-left: 1%;
+}
+
+#land{
+    width: 31%;
+}
+
+#pruefer{
+    position: static;
+    margin-top: 2%;
+    margin-left: 1%;
+    width: 75px;
+}
+
+#scoreDiv{
+    position: static;
+    margin-top: 4%;
+    margin-left: 20%;
+    font-size: 160%;
+    
+}
+
+#menuDiv{
+    position: static;
+    margin-top: 55%;
+    margin-left: 37.5%;
+    width: 75px;
+    height: 41px;
+}
+
+#menu{
+    background-color: transparent;
+    border-color: transparent;
+    width: 75px;
+    height: 41px;
+}
